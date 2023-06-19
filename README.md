@@ -1,6 +1,6 @@
 # Finance Landing Page UI Kit Project (Figma)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[Click](https://www.figma.com/file/ogoNRQ5egC7jcd3ufySk30/FINANCE-LANDING-PAGE-UI-kit?type=design&node-id=2-0&t=256cZVrAIR23UvUS-0) to see project UI design in figma.
 
 ## Available Scripts
 
